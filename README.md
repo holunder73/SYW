@@ -1,1 +1,1 @@
-Mini App displaying the Seven Years War battles
+Mini App displaying the Seven Years War battles.
